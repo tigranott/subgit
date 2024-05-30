@@ -1,0 +1,6 @@
+[submodule "projecta"]
+	path = projecta
+	url = https://github.com/tigranott/repa.git
+[submodule "projectb"]
+	path = projectb
+	url = https://github.com/tigranott/repb.git
